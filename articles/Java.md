@@ -38,6 +38,10 @@
 
 ## JVM
 
+- [对象在内存中是如何布局的？](https://www.toutiao.com/i6934342274692268556/?group_id=6934342274692268556)
+
+- [JAVA指针压缩的实现原理](https://www.pianshen.com/article/73581795730/)
+
 - [从Java代码运行聊到JVM及对象创建-分配-定位-布局-垃圾回收](https://www.toutiao.com/i6797907413220459019/)
 
 - [从头到尾说一次 Java 垃圾回收，写得非常好](https://www.toutiao.com/i6735671809821114892/)
@@ -106,7 +110,7 @@
 
 - [为什么Map桶中个数超过8才转为红黑树](https://www.toutiao.com/i6771968826201342476/)
 
-- [深入解析 ConcurrentHashMap 实现内幕](https://www.toutiao.com/i6768455461000708611/)
+- [ConcurrentHashMap源码解析](https://blog.csdn.net/programmer_at/article/details/79715177?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.baidujs&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.baidujs)
 
 ## IO
 
@@ -128,11 +132,19 @@
 
 - [十问泛型，你能扛住吗？](https://www.toutiao.com/i6841061692516860428/)
 
+- [深入理解 Java 泛型：类型擦除、通配符、运行时参数类型获取](https://blog.csdn.net/hustspy1990/article/details/78048493)
+
 ## 综合
 
 - [Java内存泄漏、性能优化、宕机死锁的N种姿势](https://www.toutiao.com/i6859243658722738696/)
 
 - [万字讲解SPI机制](https://www.toutiao.com/i6809874365853729284/)
+
+## 问题排查
+
+- [Java 应用线上问题排查思路、常用工具小结](https://www.toutiao.com/a6986947759861465614/?log_from=2efa6ee857be7_1626935069683)
+
+- [JAVA线上故障排查](https://www.toutiao.com/a6979103537343185438/)
 
 ## 类库
 

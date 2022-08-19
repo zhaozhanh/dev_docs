@@ -44,13 +44,21 @@
 
 - [聊一聊使用事务（@Transactional）可能出现的问题](https://www.toutiao.com/i6862974691569566221/)
 
+- [彻底掌握分布式事务2PC、3PC模型](https://mp.weixin.qq.com/s/_zhntxv07GEz9ktAKuj70Q)
+
 - [分布式事务的 N 种实现](https://www.toutiao.com/i6755831437154320899/)
 
 - [分布式事务框架Seata原理](https://www.ixigua.com/6844774047062950412/)
 
+- [不说“分布式事务”理论，直接上大厂阿里的解决方案，绝对实用](https://www.toutiao.com/i6719084744987902475/)
+
 ## Tomcat
 
 - [面试官扎心一问：Tomcat 在 SpringBoot 中是如何启动的？](https://www.toutiao.com/i6806279157471773188/)
+
+## feign
+
+[解决fegin+hystrix中RequestContextHolder.getRequestAttributes();返回null值的解决方法](http://www.itmuch.com/spring-cloud-sum/hystrix-threadlocal/)
 
 ## 其他
 

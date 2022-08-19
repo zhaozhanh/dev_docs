@@ -15,5 +15,5 @@ ps -ef | grep xxx
 ## 启动线程数
 
 ```sh
-ps -Lf PID
+ps -eLf PID
 ```

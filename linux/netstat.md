@@ -7,3 +7,9 @@
 ```sh
 netstat -an | awk '/^tcp/ {++S[$NF]}  END {for (a in S) print a,S[a]}'
 ```
+
+## 监控网络客户连接数
+
+```sh
+netstat -n | grep tcp | grep 侦听端口 | wc -l
+```
